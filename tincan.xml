@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://presentations/A23E700B-0BEA-4365-B998-45BAEA6CF860" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">UNIT 1 – LEVEL A1.1 VOCABULARY_LRS</name>
+			<description lang="und"/>
+			<launch>res/index.html</launch>
+		</activity>
+		<activity id="ispring://presentations/A23E700B-0BEA-4365-B998-45BAEA6CF860/slides/0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">LEVEL A1.1 UNIT 1</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A23E700B-0BEA-4365-B998-45BAEA6CF860/slides/1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">AIM</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A23E700B-0BEA-4365-B998-45BAEA6CF860/slides/2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Vocabulary</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A23E700B-0BEA-4365-B998-45BAEA6CF860/slides/3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Dictation</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A23E700B-0BEA-4365-B998-45BAEA6CF860/slides/4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">End</name>
+			<description lang="und"/>
+		</activity>
+	</activities>
+</tincan>
